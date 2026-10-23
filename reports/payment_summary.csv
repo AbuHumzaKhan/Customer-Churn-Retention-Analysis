@@ -1,0 +1,5 @@
+payment_method,customers,churned,churn_rate_pct
+Electronic check,200,78,39.0
+Credit card,200,77,38.5
+Bank transfer,200,57,28.5
+Digital wallet,200,57,28.5
