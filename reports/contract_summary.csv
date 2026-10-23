@@ -1,0 +1,4 @@
+contract_type,customers,churned,churn_rate_pct,monthly_charges_associated_with_churn_inr
+Month-to-month,400,232,58.0,151598
+One year,240,32,13.3333,22878
+Two year,160,5,3.125,3214
